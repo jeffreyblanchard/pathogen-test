@@ -34,4 +34,4 @@ A strength of our broad [Biology Department](https://www.umass.edu/biology/) is 
 
 We recruit undergraduate students through the UMass [PROPEL](https://propel.umass.edu/) (Promoting Research Opportunities for Equity in Learning) program to ensure equitable access to academic and research opportunities for all undergraduate students at the University of Massachusetts Amherst. We look for students with diverse life and intellectual perspectives. 
 
-Here are our [current research projects](OurResearch.html).
+Here are our [current research projects](https://jeffreyblanchard.github.io/lab/OurResearch.html).
