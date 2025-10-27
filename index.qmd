@@ -1,6 +1,6 @@
 ---
 title: "Blanchard Research Lab at UMass Amherst"
-author: "Your name"
+author: "Jeff Blanchard"
 format:
   html:
     toc: true
